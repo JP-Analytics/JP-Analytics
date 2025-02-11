@@ -1,3 +1,11 @@
+<div style="position: relative; text-align: center;">
+  <img src="background.jpeg" alt="Background Image" width="100%">
+  <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+             color: white; font-size: 40px; background: rgba(0, 0, 0, 0.5); padding: 10px;">
+    Hi there, I'm Anthony! 👋
+  </h1>
+</div>
+
 <h1 align="center">Hi there, I'm Anthony! 👋</h1>
 <h3 align="center">Business Strategist | Data Enthusiast | Market Researcher </h3>
 
